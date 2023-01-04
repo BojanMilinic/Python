@@ -1,3 +1,5 @@
 what is this
 This is a change I'm creating in VS Code which creates a green bar to the left. 
 Editing the top line makes the whole bar turn blue
+After commiting the bar disappears by reappears after adding more content. 
+Here's another line to see if it pops up if not unstages
